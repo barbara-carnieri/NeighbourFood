@@ -3,6 +3,12 @@
 
 <br>
 
+### `Deploy Link`
+
+Open [https://neighbourfood-app.herokuapp.com/](https://neighbourfood-app.herokuapp.com/) to view it in the browser.
+
+![NeighbourFood](/public/neighbourfooddemo.png)
+
 
 ## Description
 
